@@ -5,13 +5,13 @@
     "url": "https://maestra.io"
   },
   "metadata": {
-    "description": "Maestra skills for marketers: emails in the visual editor and segment filters."
+    "description": "Maestra skills for marketers: emails in the visual editor, segment filters, and more."
   },
   "plugins": [
     {
       "name": "maestra",
       "source": "./",
-      "description": "Maestra skills for marketers: emails in the visual editor and segment filters."
+      "description": "Maestra skills for marketers: emails in the visual editor, segment filters, and more."
     }
   ]
 }
