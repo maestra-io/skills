@@ -26,9 +26,9 @@ Stuck at any point? Paste the link to this page into Claude and ask it to walk y
 
 ### Step 2. Install the skills
 
-1. In Claude, open **Customize** in the sidebar, then **Plugins**.
-2. Click **Add**, choose **Add marketplace → Add from a repository**, and paste `https://github.com/maestra-io/skills`.
-3. A plugin named `maestra` appears — click **Install** on it.
+1. In Claude, open **Settings → Plugins**.
+2. Click **Add → Add marketplace**, paste `https://github.com/maestra-io/skills`, and click **Sync**.
+3. The **Maestra** plugin appears — click **+** to install it.
 
 Using a different AI tool? See [Other AI tools](#other-ai-tools).
 
