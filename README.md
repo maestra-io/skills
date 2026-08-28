@@ -2,7 +2,7 @@
 
 # Agent skills
 
-Skills that let Claude work in your [Maestra](https://maestra.io) account: set up once, then just chat. The setup is two steps: connect Maestra to Claude, then install the skills.
+Skills that let Claude work in your [Maestra.io](https://maestra.io) account: set up once, then just chat. The setup is two steps: connect Maestra to Claude, then install the skills.
 
 ## What's inside
 
