@@ -30,7 +30,7 @@ Stuck at any point? Paste the link to this page into Claude and ask it to walk y
 2. Click **Add**, choose **Add marketplace → Add from a repository**, and paste `https://github.com/maestra-io/skills`.
 3. A plugin named `maestra` appears — click **Install** on it.
 
-Each person installs the plugin for themselves — the same three clicks on any plan, personal or company workspace. Updates arrive automatically.
+Each person installs the plugin for themselves, on any plan. Updates arrive automatically.
 
 Using a different AI tool? See [Other AI tools](#other-ai-tools).
 
