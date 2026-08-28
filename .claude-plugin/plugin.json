@@ -1,7 +1,7 @@
 {
   "name": "maestra",
   "version": "1.0.0",
-  "description": "Maestra skills for marketers: create and edit emails in the Maestra visual editor, and build or explain CDP filters — through your project's Maestra MCP server. Emails are saved as drafts and filters are read-only: sending, activation, and audiences stay in Maestra.",
+  "description": "Maestra skills for marketers: emails in the visual editor and segment filters.",
   "author": {
     "name": "Maestra.io"
   },
