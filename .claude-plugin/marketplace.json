@@ -1,0 +1,17 @@
+{
+  "name": "maestra",
+  "owner": {
+    "name": "maestra-io",
+    "url": "https://maestra.io"
+  },
+  "metadata": {
+    "description": "Maestra skills for marketers — emails in the visual editor and CDP filters, through the Maestra MCP server."
+  },
+  "plugins": [
+    {
+      "name": "maestra",
+      "source": "./",
+      "description": "Maestra skills for marketers: create and edit emails in the Maestra visual editor, and build or explain CDP filters — through your project's Maestra MCP server."
+    }
+  ]
+}
