@@ -7,7 +7,7 @@ description: >-
   itself on request.
   Triggers: "build a filter", "make a segment", "select customers who",
   "who bought X in the last N days", "filter by products",
-  "starter filters", "CSM filters", "csm-filters".
+  "starter filters".
   NOT for: datamart analytics — "count", "how many", a report, a metric, ClickHouse SQL
   (the `analytics_*` tools of the same MCP server); explaining a filter that already exists
   (/maestra:filter-explain).
