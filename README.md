@@ -45,7 +45,9 @@ Phrases like "create an email" or "build a filter" wake the right skill:
 
 ## Other AI tools
 
-The skills follow the open [Agent Skills](https://skills.sh) standard, so Codex, Cursor, and other compatible agents can use them:
+**ChatGPT** — this repository works there as a plugin too: in the ChatGPT app, open **Plugins → Add → Add a marketplace** and paste `maestra-io/maestra-plugins`.
+
+For developers — the skills follow the open [Agent Skills](https://skills.sh) standard, so Codex, Cursor, and other compatible agents can use them:
 
 ```
 npx skills add maestra-io/maestra-plugins
