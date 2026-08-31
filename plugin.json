@@ -8,7 +8,7 @@
     "url": "https://maestra.io"
   },
   "homepage": "https://maestra.io",
-  "repository": "https://github.com/maestra-io/skills",
+  "repository": "https://github.com/maestra-io/maestra-plugins",
   "license": "Apache-2.0",
   "keywords": ["maestra", "email", "campaign", "visual-editor", "filters", "segment", "cdp"]
 }

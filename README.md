@@ -27,7 +27,7 @@ Stuck at any point? Paste the link to this page into Claude and ask it to walk y
 ### Step 2. Install the skills
 
 1. In Claude, open **Settings → Plugins**.
-2. Click **Add → Add marketplace**, paste `https://github.com/maestra-io/skills`, and click **Sync**.
+2. Click **Add → Add marketplace**, paste `https://github.com/maestra-io/maestra-plugins`, and click **Sync**.
 3. The **Maestra** plugin appears — click **+** to install it.
 
 Using a different AI tool? See [Other AI tools](#other-ai-tools).
@@ -48,7 +48,7 @@ Phrases like "create an email" or "build a filter" wake the right skill:
 The skills follow the open [Agent Skills](https://skills.sh) standard, so Codex, Cursor, and other compatible agents can use them:
 
 ```
-npx skills add maestra-io/skills
+npx skills add maestra-io/maestra-plugins
 ```
 
 ## License
