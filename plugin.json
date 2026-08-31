@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "maestra",
+  "version": "1.0.0",
+  "description": "Maestra skills for marketers: emails in the visual editor, segment filters, and more.",
+  "author": {
+    "name": "Maestra.io",
+    "url": "https://maestra.io"
+  },
+  "homepage": "https://maestra.io",
+  "repository": "https://github.com/maestra-io/skills",
+  "license": "Apache-2.0",
+  "keywords": ["maestra", "email", "campaign", "visual-editor", "filters", "segment", "cdp"]
+}
